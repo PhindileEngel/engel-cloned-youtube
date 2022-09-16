@@ -80,6 +80,8 @@ align-items: center;
     margin-right: 15px;
 }
 
+
+/* youtube side-bar with youtube icons  */
 .mainbody {
 height: calc(100vh - 56px);   
 display: flex;
@@ -145,6 +147,7 @@ background: #f9f9f9 ;
     color: red;     
 }
 
+/* side-bar footer */
 .categories-footer {
     padding: 25px ; 
 }
@@ -168,7 +171,7 @@ background: #f9f9f9 ;
     margin-bottom: 15px;
 }
 
-
+/* vedio-grid with youtube thumnails */
 .videos {
 width: calc(100vw - 240px);
 height: 100%;
